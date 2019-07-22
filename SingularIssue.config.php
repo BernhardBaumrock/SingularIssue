@@ -5,5 +5,6 @@ $config = [
     'label' => 'demo',
     'type' => 'text',
     'required' => 1,
+    'value' => 'test',
   ],
 ];
